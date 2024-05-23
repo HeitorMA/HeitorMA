@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Heitor Mota👋
 
-- 🌱 Estudando atualmente na ETEC 1° Ano Ensino Médio Técnico e Cursando Desenvolvimento de Sistemas
+- 🌱 Estudando atualmente na ETEC 3° Ano Ensino Médio Técnico e Cursando Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 <div align="center">
