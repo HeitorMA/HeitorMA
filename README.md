@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Heitor Mota👋
 
-- 🌱 Estudando atualmente na ETEC 3° Ano Ensino Médio Técnico e Cursando Desenvolvimento de Sistemas
+- 🌱 Estudando atualmente na FATEC Dom Amaury Castanho, em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
 
