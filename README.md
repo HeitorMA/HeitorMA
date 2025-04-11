@@ -1,6 +1,7 @@
 ## Olá, eu me chamo Heitor Mota👋
 
 - 🌱 Estudando atualmente na FATEC Dom Amaury Castanho, cursando Análise e Desenvolvimento de Sistemas.
+- 📚 Estou aprendendo linguagens como JavaScript, Java, HTML, CSS, Angular e SQL.
 
 <div align="center">
 
