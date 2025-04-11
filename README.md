@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Heitor Mota👋
 
-- 🌱 Estudando atualmente na FATEC Dom Amaury Castanho, em Análise e Desenvolvimento de Sistemas.
+- 🌱 Estudando atualmente na FATEC Dom Amaury Castanho, cursando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
 
